@@ -1,2 +1,2 @@
 # Pycos
-produce Circos image based on genomic data
+produce Circos images based on genomic data
