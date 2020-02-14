@@ -1,0 +1,10 @@
+#chromosome information. The colors of chr are stored in a text file named chr-color.
+chr	chr.info	prism
+#genomic colinear information. red is color and 7 is radius.
+link	MADS.link.txt	green	7
+#gene number. red is color and 8 is radius.
+number	genome.blocklink1.txt	red	8
+#gene density. line plot
+densityline	gene-num.vcf	purple	10
+#gene density. scatter plot
+densitydot	gene-num.vcf	blue	12
